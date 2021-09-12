@@ -7,4 +7,4 @@ This is a Bootstrap Portfolio.
 <p align="center">
   <img  src="/assets/img/screenshot.png">
 
-### **Live [DEMO](https://paudeldhirendra.github.io/Bootstrap/)**.
+### **Live [DEMO](https://paudeldhirendra.github.io/CurriculumVitae/)**.
