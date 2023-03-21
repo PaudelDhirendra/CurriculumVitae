@@ -1,6 +1,6 @@
 # Bootstrap Resume
 
-## Glassmorphism-Portfolio
+## Curriculum Vitae
 This is a Bootstrap Portfolio.
 
 ## Sample Screenshot :
